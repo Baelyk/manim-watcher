@@ -1,6 +1,6 @@
 # manim-watcher
 
-A small script that watches for changes in Manim project and previews the renders.
+A small script that watches for changes in Manim project and previews the renders. Press `?` for help in the player.
 
 ```
 usage: manim-watcher [-h] [--project PROJECT]
